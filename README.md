@@ -1,4 +1,4 @@
-# 57 Agents Funcionarios — Claude Code para empresas
+# 57 Agents Funcionarios — Codex para empresas
 
 **57 subagentes especializados** que funcionam como funcionarios sem salario para sua empresa. Cada agente e um especialista em uma funcao especifica do dia-a-dia (trafego, copy, SDR, follow-up, financeiro, RH, etc.) que atua proativamente quando o contexto bate com sua especialidade.
 
@@ -11,18 +11,18 @@ Diferente das skills (instrucoes pontuais), agentes sao **profissionais virtuais
    git clone https://github.com/heitorsantos98assis-lang/agents-funcionarios.git
    ```
 
-2. Copie os agentes para o seu projeto Claude Code:
+2. Copie os agentes para o seu projeto Codex:
    ```bash
-   cp -r agents-funcionarios/agents/* /caminho/do/seu/projeto/.claude/agents/
+   cp -r agents-funcionarios/agents/* /caminho/do/seu/projeto.codex/agents/
    ```
 
-   Ou, para uso global: `~/.claude/agents/`.
+   Ou, para uso global: `.codex/agents/`.
 
-3. Reinicie o Claude Code (`/exit` e abra de novo). Confirme com `/agents`.
+3. Reinicie o Codex (`/exit` e abra de novo). Confirme com `/agents`.
 
 ## Como usar
 
-- **Automatico**: descreva sua necessidade. Ex.: "preciso lancar uma campanha no Meta para o produto X" -> Claude delega para `trafego-meta-analise-campanha`.
+- **Automatico**: descreva sua necessidade. Ex.: "preciso lancar uma campanha no Meta para o produto X" -> Codex delega para `trafego-meta-analise-campanha`.
 - **Manual**: "use o agente `comercial-follow-up` para reativar essa lista de leads frios".
 - **Em pipeline**: `marketing-persona` -> `marketing-campanha` -> `trafego-meta-copy-criativo` -> `lancamento-pagina`.
 
