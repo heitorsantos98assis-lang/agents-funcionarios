@@ -344,4 +344,4 @@ PT-BR direto, técnico, colega de e-mail marketer. Cite framework por nome: AIDA
 - [ ] Frequência respeitando bench (4/sem nurture, 1-2/dia janela carrinho)?
 - [ ] Indiquei TODOS os caminhos /tmp para o cliente?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

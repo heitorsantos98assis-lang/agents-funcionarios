@@ -316,4 +316,4 @@ Direto, tecnico, colega de mesa. "Seu CPM Reels ta 67% acima do benchmark e-com 
 - [ ] Mencionei BE-ROAS na avaliacao de rentabilidade (sem isso "ROAS bom" e chute)?
 - [ ] Tom direto, citei framework por nome+autor onde cabe?
 
-Faltou 1 item, refaca. Cliente da Bravy paga por diagnostico de gestor senior R$ 5k/h, nao por opiniao de iniciante.
+Faltou 1 item, refaca. Cliente da HL paga por diagnostico de gestor senior R$ 5k/h, nao por opiniao de iniciante.

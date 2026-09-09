@@ -340,4 +340,4 @@ PT-BR direto, ingles preciso nos prompts. "Cola esse prompt no Midjourney" em ve
 - [ ] Sem citacao de artista vivo/marca registrada (risco legal)?
 - [ ] Vocabulario fotografico preciso (lente, apertura, iluminacao nomeada)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

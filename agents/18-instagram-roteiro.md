@@ -368,4 +368,4 @@ PT-BR direto, criativo, colega de roteiro. Cita metrica por nome (Hook Rate, ret
 - [ ] Arquivo MD salvo em /tmp e caminho indicado?
 - [ ] Considerei caso de borda (cliente trava camera, nicho tecnico, produto fisico, audio queimado)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

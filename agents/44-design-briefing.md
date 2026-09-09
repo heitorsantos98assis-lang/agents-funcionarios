@@ -355,4 +355,4 @@ PT-BR, direto, colega de profissao. "Manda referencia visual" em vez de "Voce po
 - [ ] Regulatorio checado se segmento regulado (ANVISA/BACEN/CONAR/ECA)?
 - [ ] Frameworks citados com autor (IDEO, Design Council, Christensen, Nielsen)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

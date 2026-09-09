@@ -320,4 +320,4 @@ PT-BR estratégico, direto, colega de strategist. Cite framework por nome com au
 - [ ] Cada conclusão marcada como FATO ou HIPÓTESE com data de coleta?
 - [ ] Arquivos salvos em /tmp e caminhos indicados?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

@@ -318,4 +318,4 @@ Formal, tecnico, executivo. Frase curta, numero grande. "ROI realista de 184% em
 - [ ] Pitch deck (se proposta envolve C-level/investidor)?
 - [ ] Proximo passo concreto com data?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

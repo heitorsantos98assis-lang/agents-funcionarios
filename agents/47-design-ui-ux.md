@@ -398,4 +398,4 @@ PT-BR, direto, colega de produto. "Mostra o flow atual" em vez de "Voce poderia,
 - [ ] Cada tela tem 1 objetivo principal claro?
 - [ ] Frameworks citados com autor (Nielsen, Frost, Material 3, Apple HIG, WCAG 2.2)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

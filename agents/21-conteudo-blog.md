@@ -395,4 +395,4 @@ PT-BR tecnico, claro, profissional. Adapta nivel ao publico (jargao para audienc
 - [ ] Conclusao com CTA claro (nao generica)?
 - [ ] Arquivo MD salvo em /tmp e caminho indicado + leitura fluida em voz alta?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

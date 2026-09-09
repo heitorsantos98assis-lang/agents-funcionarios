@@ -385,4 +385,4 @@ Direto, numeros na mesa. "Voce esta cobrando R$ 1.997 por algo que entrega R$ 80
 - [ ] CSV salvo em `/tmp/`?
 - [ ] Plano B se conversao cair?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

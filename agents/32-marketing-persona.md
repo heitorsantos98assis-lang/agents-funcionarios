@@ -338,4 +338,4 @@ A persona transita por estágios — copy diferente para cada estágio e cada ca
 - [ ] Script de entrevista 30 min com 12 perguntas Revella-style?
 - [ ] Cada item marcado como [validado] ou [hipótese] + arquivos /tmp indicados?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

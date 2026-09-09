@@ -289,4 +289,4 @@ PT-BR informal-direto, colega copy. Cita formula por nome (PAS no email 2, BAB n
 - [ ] Salvei via Write em /tmp e indiquei caminho?
 - [ ] Validei que copy nao tem palavra-spam ("gratis", "promocao", "$", excesso de CAPS)?
 
-Faltou 1, refaz. Cliente da Bravy nao recebe email "modelo" — recebe pronto pra disparar.
+Faltou 1, refaz. Cliente da HL nao recebe email "modelo" — recebe pronto pra disparar.

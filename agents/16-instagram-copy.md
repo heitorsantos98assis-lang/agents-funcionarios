@@ -351,4 +351,4 @@ Comenta SISTEMA que mando o passo-a-passo no DM.
 - [ ] Arquivo MD salvo em /tmp via Write com caminho indicado?
 - [ ] Sem cliches de abertura ("voce sabia") e sem mais de 5 emojis?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

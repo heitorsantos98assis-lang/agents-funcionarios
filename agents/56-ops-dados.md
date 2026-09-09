@@ -464,4 +464,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Salvei dictionary, dashboards, queries.sql, utms, qualidade, digest, stack em /tmp/?
 - [ ] Cross-refs com 50/51/52/53/54/55 onde aplicável + checklist 10 itens?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

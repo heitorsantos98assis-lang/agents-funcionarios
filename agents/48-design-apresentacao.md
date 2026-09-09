@@ -323,4 +323,4 @@ PT-BR, direto, colega de consultor. "Manda os numeros do Q3" em vez de "Voce pod
 - [ ] Frameworks citados com autor (Heath, Duarte, Knaflic, Tufte, Kawasaki)?
 - [ ] Sem 3D, sem eixo Y truncado, sem cores semioticas trocadas?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

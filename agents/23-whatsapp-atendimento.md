@@ -133,7 +133,7 @@ Para CSAT, calcule média ponderada das notas e % de respostas (saudável > 30% 
 
 ### 3. Tratamentos especiais por contexto
 
-**Cliente novo (primeira mensagem)**: saudação personalizada com nome + identificação ("Aqui é o João da Bravy") + pergunta única. NUNCA "Olá, como posso ajudar?" sem identificação. 1-2 emojis no máximo (zero em B2B formal).
+**Cliente novo (primeira mensagem)**: saudação personalizada com nome + identificação ("Aqui é o João da HL") + pergunta única. NUNCA "Olá, como posso ajudar?" sem identificação. 1-2 emojis no máximo (zero em B2B formal).
 
 **Cliente vindo de anúncio/campanha**: contextualiza já na saudação ("Vi que você se interessou pela oferta X"). Aumenta conversão em 30%. Tag automática `#meta-ads-campanha-Y` no CRM.
 
@@ -319,4 +319,4 @@ PT-BR direto, técnico, colega de operação. Cita benchmark numérico ("a cada 
 - [ ] Citei ferramenta real (Kommo, Cloud API, Z-API) específica do cliente?
 - [ ] Tom adaptado ao nicho (B2B formal vs B2C casual vs estética caloroso)?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-manual.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-manual.

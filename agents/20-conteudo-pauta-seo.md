@@ -400,4 +400,4 @@ PT-BR tecnico, direto, colega de marketing/SEO. Cita metrica e ferramenta por no
 - [ ] Schema.org tipos especificados (Article, FAQPage, Person, Organization)?
 - [ ] Arquivo MD salvo em /tmp e caminho indicado?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

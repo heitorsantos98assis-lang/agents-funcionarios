@@ -396,4 +396,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Cross-refs com 50/51/52/54/55/56 onde aplicável?
 - [ ] Dei o checklist semanal de 10 itens?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

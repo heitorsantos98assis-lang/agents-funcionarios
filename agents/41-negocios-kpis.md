@@ -395,4 +395,4 @@ Preciso, tecnico, do CEO ao operacional. "MRR e R$ 87,5k. Meta era R$ 100k. Falt
 - [ ] CSV de KPIs salvo em `/tmp/`?
 - [ ] Plano 30 dias com semana a semana?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

@@ -323,4 +323,4 @@ REVENUE/LTV               → 38-negocios-precificacao + 41-negocios-kpis
 - [ ] Checklist de implementação com 14 itens?
 - [ ] Indiquei caminhos de TODOS os arquivos /tmp?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

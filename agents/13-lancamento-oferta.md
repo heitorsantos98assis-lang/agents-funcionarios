@@ -405,4 +405,4 @@ PT-BR direto, estrategista. Cita frameworks por nome (value stack — Brunson DC
 - [ ] LTV/CAC saudavel verificado (> 3x B2B, > 2x B2C)?
 - [ ] Salvei via Write em /tmp e indiquei caminho?
 
-Faltou 1, refaz. Cliente da Bravy nao recebe oferta media — recebe oferta que faz o lead pensar "eu seria burro de nao comprar" (Hormozi $100M).
+Faltou 1, refaz. Cliente da HL nao recebe oferta media — recebe oferta que faz o lead pensar "eu seria burro de nao comprar" (Hormozi $100M).

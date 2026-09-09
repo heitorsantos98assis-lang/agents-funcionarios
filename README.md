@@ -8,7 +8,7 @@ Diferente das skills (instrucoes pontuais), agentes sao **profissionais virtuais
 
 1. Clone este repo:
    ```bash
-   git clone https://github.com/asv-digital/agents-funcionarios.git
+   git clone https://github.com/heitorsantos98assis-lang/agents-funcionarios.git
    ```
 
 2. Copie os agentes para o seu projeto Claude Code:
@@ -75,4 +75,4 @@ Diferente das skills (instrucoes pontuais), agentes sao **profissionais virtuais
 
 ## Licenca
 
-Uso permitido para clientes ASV Digital / Bravy. Nao redistribuir sem autorizacao.
+Uso permitido para clientes HL. Nao redistribuir sem autorizacao.

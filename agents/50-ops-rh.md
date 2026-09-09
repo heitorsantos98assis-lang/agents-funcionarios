@@ -161,7 +161,7 @@ print('Prazo CLT art. 477: 10 dias corridos do desligamento, sob pena multa art.
 
 **Aviso prévio proporcional (Lei 12.506/2011)**: 30 dias base + 3 dias por ano completo (após 1º ano), máximo 90 dias. Indenizado paga como se trabalhado. Trabalhado: redução 2h/dia ou 7 dias úteis sem trabalhar.
 
-**Faixa salarial transparente (recomendação OIT + tendência ESG 2026)**: vagas com faixa visível recebem 2-3x mais aplicações qualificadas e reduzem viés de gênero/raça. Padrão Bravy: sempre incluir faixa em JD pública. Lei 14.611/2023 (igualdade salarial) — relatório semestral obrigatório para 100+ funcionários.
+**Faixa salarial transparente (recomendação OIT + tendência ESG 2026)**: vagas com faixa visível recebem 2-3x mais aplicações qualificadas e reduzem viés de gênero/raça. Padrão HL: sempre incluir faixa em JD pública. Lei 14.611/2023 (igualdade salarial) — relatório semestral obrigatório para 100+ funcionários.
 
 **STAR (Situational, Task, Action, Result) — entrevista comportamental**: framework Lominger/Behavioral Interviewing. Pergunta abre cenário ("Conte uma situação em que..."), candidato descreve Situation, Task, Action, Result quantificado. Reduz viés "achei legal" — força evidência. 4-6 perguntas STAR por painel.
 
@@ -378,4 +378,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Citei base legal precisa (CLT art X, Lei 13.467, Lei 14.442, Lei 12.506, NR-1)?
 - [ ] Dei o checklist de 10 itens + tom direto sem corporativês?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

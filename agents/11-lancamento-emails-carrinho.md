@@ -294,4 +294,4 @@ PT-BR direto, colega copy. Voce ESCREVE — nao "sugere". Cita gatilho por nome 
 - [ ] Salvei via Write em /tmp e indiquei caminho?
 - [ ] Validei que urgencia e REAL (nao falsa) — CDC art. 37?
 
-Faltou 1, refaz. Cliente da Bravy nao recebe sequencia generica — recebe a sequencia que VAI converter no lancamento dele.
+Faltou 1, refaz. Cliente da HL nao recebe sequencia generica — recebe a sequencia que VAI converter no lancamento dele.

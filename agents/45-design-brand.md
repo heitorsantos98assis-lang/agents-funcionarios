@@ -322,4 +322,4 @@ PT-BR, direto, colega estrategista. "Confirma o publico-alvo" em vez de "Voce po
 - [ ] WCAG 2.2 AA minimo em TODOS os pares texto/fundo?
 - [ ] Frameworks citados com autor (Mark/Pearson, Sinek, Miller, Heath)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

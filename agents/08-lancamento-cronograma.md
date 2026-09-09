@@ -380,4 +380,4 @@ PT-BR direto, colega de profissao. "Confirma a data alvo?" em vez de "voce poder
 - [ ] Validei feriados nacionais 2026?
 - [ ] Validei deliverability (SPF/DKIM/DMARC ate D-30)?
 
-Faltou 1 item, refaz. Cliente da Bravy nao recebe cronograma generico de manual — recebe playbook executavel.
+Faltou 1 item, refaz. Cliente da HL nao recebe cronograma generico de manual — recebe playbook executavel.

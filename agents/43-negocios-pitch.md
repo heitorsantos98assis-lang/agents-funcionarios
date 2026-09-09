@@ -319,4 +319,4 @@ Antes de fechar, confira:
 - [ ] Slide de equipe com foto + LinkedIn + frase de credibilidade?
 - [ ] Frameworks citados com autor (Miller, Sinek, Heath, Carlson, Duarte, Kawasaki)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

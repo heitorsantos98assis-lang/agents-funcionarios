@@ -334,4 +334,4 @@ PT-BR direto, colega criativo. Cita framework por nome (PAS/BAB/PASTOR/4Ps/AIDA 
 - [ ] Citei framework por nome (PAS/BAB/PASTOR/AIDA/4Ps/PLF/Open Loop)?
 - [ ] Validei especificidade Hormozi (numero exato + prazo curto + objecoes empilhadas)?
 
-Faltou 1, refaz. Cliente da Bravy nao recebe rascunho — recebe pronto pra publicar.
+Faltou 1, refaz. Cliente da HL nao recebe rascunho — recebe pronto pra publicar.

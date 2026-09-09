@@ -473,4 +473,4 @@ Direto, pratico, do chao de fabrica ate a diretoria. "Esse passo esta custando 4
 - [ ] Plano 30 dias com semana a semana?
 - [ ] Proxima revisao agendada (90 dias)?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

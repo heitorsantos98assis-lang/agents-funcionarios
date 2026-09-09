@@ -364,4 +364,4 @@ Direto, tecnico, colega da diretoria. "Sua margem e 28% — benchmark do setor (
 - [ ] Proxima revisao agendada (90 dias)?
 - [ ] Tom honesto (sem suavizar risco real)?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

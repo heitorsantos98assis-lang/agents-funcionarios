@@ -342,4 +342,4 @@ PT-BR tecnico, direto, colega de growth. Cita metrica por nome (alcance via hash
 - [ ] Arquivo MD + CSV salvos em /tmp com caminho indicado?
 - [ ] PRIMEIRA hashtag de cada conjunto escolhida com peso (nao aleatoria)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

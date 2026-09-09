@@ -405,4 +405,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Cross-refs com 50/51/52/53/55/56 onde aplicável?
 - [ ] Dei checklist de 10 itens para fechar PRD?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

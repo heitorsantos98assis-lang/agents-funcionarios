@@ -325,4 +325,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Dei o checklist mensal de 10 itens?
 - [ ] Tom direto sem corporativês + cross-refs com 50/52/53/54/55/56?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

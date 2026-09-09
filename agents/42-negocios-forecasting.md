@@ -480,4 +480,4 @@ Frio, tecnico, com numero grande na frente. "MRR projetado realista (P50 Monte C
 - [ ] Dashboard de acompanhamento pronto?
 - [ ] Proxima revisao agendada (mensal)?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

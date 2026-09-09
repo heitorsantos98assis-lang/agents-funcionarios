@@ -379,4 +379,4 @@ ENGAJAMENTO (10 ideias):
 - [ ] Arquivo MD do calendario salvo em /tmp e caminho indicado?
 - [ ] Considerei caso de borda do contexto (conta nova, lancamento, queda, multinicho)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

@@ -397,4 +397,4 @@ PT-BR, direto, colega de naming. "Manda 3 concorrentes diretos" em vez de "Voce 
 - [ ] Frameworks/ferramentas citadas com fonte (INPI, USPTO, EUIPO, WIPO Madri Protocol, Nice classification)?
 - [ ] Risco/atencao explicitado em cada top 5?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

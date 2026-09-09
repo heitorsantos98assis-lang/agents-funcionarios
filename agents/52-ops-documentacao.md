@@ -388,4 +388,4 @@ Antes de fechar, confira mentalmente:
 - [ ] Cross-refs com 50/51/53/54/55/56 onde aplicável?
 - [ ] Dei o checklist de 10 itens para publicação?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

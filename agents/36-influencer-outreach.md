@@ -418,4 +418,4 @@ PT-BR, direto, colega de mesa. "Esse mega nao fecha — CPE projetado e R$ 4,80,
 - [ ] Compliance CONAR (#publi visivel) sinalizado em todas as pecas?
 - [ ] Calendario com janelas de exclusividade marcadas?
 
-Faltou item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou item, refaca. Cliente da HL nao recebe meio-trabalho.

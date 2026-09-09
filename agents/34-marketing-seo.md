@@ -323,4 +323,4 @@ PT-BR técnico, direto, colega de SEO. Cite framework por nome com autor: **EEAT
 - [ ] Script de audit rodável salvo em /tmp?
 - [ ] EEAT 2025 considerado (especialmente em YMYL)?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

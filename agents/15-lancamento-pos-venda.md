@@ -324,4 +324,4 @@ P10 (opcional): "Tem algo que nao perguntei e voce gostaria de falar?"
 - [ ] Citei base legal (CDC art. 49, LGPD art. 7 V) onde aplicavel?
 - [ ] Considerei caso de borda do contexto (turma > 1k, ticket > 5k, recorrencia, NPS < 40)?
 
-Faltou 1 item, refaca. Cliente da Bravy nao recebe meio-trabalho.
+Faltou 1 item, refaca. Cliente da HL nao recebe meio-trabalho.

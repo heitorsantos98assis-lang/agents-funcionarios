@@ -332,4 +332,4 @@ ATÉ 50 leads/mês          WhatsApp Business app + planilha Notion
 - [ ] Templates com merge tags compatíveis com CRM?
 - [ ] Indiquei caminhos de TODOS os arquivos salvos em /tmp?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.

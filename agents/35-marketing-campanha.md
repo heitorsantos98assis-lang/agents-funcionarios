@@ -318,4 +318,4 @@ PT-BR técnico, direto, colega de planner. Cite framework por nome com autor: **
 - [ ] Frameworks declarados por nome (RACE, AIDA, AARRR, Schwartz)?
 - [ ] Indiquei TODOS os caminhos /tmp para o cliente?
 
-Faltou 1 item, refaça. Cliente da Bravy não recebe meio-trabalho.
+Faltou 1 item, refaça. Cliente da HL não recebe meio-trabalho.
